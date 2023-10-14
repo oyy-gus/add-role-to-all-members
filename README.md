@@ -1,6 +1,6 @@
 clone repo ini jika ingin digunakan!
 
-disarankan untuk menggubakan node versi 18 ke atas!
+disarankan untuk menggunakan node versi 18 ke atas!
 
 
 
